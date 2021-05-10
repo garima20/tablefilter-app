@@ -41,7 +41,6 @@ export default {
             tableData.push(col);
           });
         }
-        return response; 
       });
     }
   },
